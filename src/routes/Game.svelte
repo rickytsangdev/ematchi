@@ -22,6 +22,7 @@
         justify-content: center;
         align-items: center;
         height: 100%;
+        font-size: min(1vmin, 0.1rem);
     }
 
     .info{
